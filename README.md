@@ -123,6 +123,3 @@ Currently working on enterprise AI solutions, document intelligence, and Retriev
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
----
-
-⭐ *Building intelligent solutions, one commit at a time.*
