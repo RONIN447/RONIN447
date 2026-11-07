@@ -1,23 +1,128 @@
-- 👋 Hi there , I'm Akshat Sthapak
-- 🔭 I am honing my dev and problem solving skills.
-- 🌱 I am currently learning Node.js.
-- 👯 I’m looking to collaborate in web dev projects.
-- 💬 Ask me About Web development , Web Technologies and Data Structures & Algorithms.
-- 📫 How to reach me: akshatsthapak4420@gmail.com
-- ⚡ Fun fact: I love to play video games
+# 👋 Hi, I'm Akshat Sthapak
 
+### AI/ML Engineer | Generative AI | LLMs | Full-Stack Development
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-sthapak-02bb2b228/) 
+I'm a Software Engineer - AI/ML at **SYSTRA**, passionate about building intelligent applications that solve real-world engineering and business problems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RONIN447&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RONIN447&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RONIN447&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working on enterprise AI solutions, document intelligence, and Retrieval-Augmented Generation (RAG) systems. I enjoy combining software engineering with Generative AI to build scalable, practical applications.
+
+- 🔭 Currently working on **Generative AI, RAG Systems & Enterprise AI Applications**
+- 🌱 Exploring **LLMs, AI Agents, Hugging Face Transformers, MLOps & Cloud AI**
+- 💼 Software Engineer - AI/ML at **SYSTRA**
+- 🤝 Interested in collaborating on **AI/ML, GenAI and Open-Source projects**
+- 💬 Ask me about **Python, RAG, LangChain, LLMs, Backend Development & DSA**
+- 📫 Reach me at: **akshatsthapak4420@gmail.com**
+- ⚡ Fun fact: I enjoy solving challenging DSA problems and playing video games!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RONIN447&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshat-sthapak-02bb2b228/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RONIN447)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI / Machine Learning / Generative AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔍 LLM & Retrieval Technologies
+
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-purple?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-blue?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-4285F4?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
+
+### ⚙️ Backend & Web Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects & Experience
+
+### 🏢 Enterprise Railway Document Management System | SYSTRA
+- Built an enterprise DMS using Python, Flask, Django and PostgreSQL.
+- Indexed **2,000+ engineering documents** spanning 20,000+ pages.
+- Developed ingestion pipelines supporting 500-document bulk uploads.
+- Built a RAG pipeline using LangChain, ChromaDB and GPT-4o-mini.
+- Improved Recall@5 from **72% to 85%** through metadata filtering and hybrid retrieval.
+- Containerized the DMS and FastAPI-based RAG service using Docker.
+
+### 🍔 FoodCorps | Full-Stack Food Delivery Application
+- Developed a full-stack application using MongoDB, Express.js, React.js and Node.js.
+- Implemented JWT-based authentication and management dashboards.
+- Optimized backend APIs, improving response time by 25%.
+
+### 🚆 Predictive Maintenance | West Central Railway
+- Contributed to a Python-based predictive maintenance project.
+- Analyzed historical failure data and real-time sensor inputs.
+- Supported railway reliability improvements and reduced unscheduled downtime.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **700+ DSA problems** across multiple coding platforms.
+- 📈 Ranked among the **Top 4.2% of coders** for problem-solving.
+- 🏆 Runner-Up at **HackHero**, a state-level hackathon organized by AI-Society.
+- 🚀 Advanced through 4 of 5 rounds in the national **L&T I-cu Contest** on AI and Machine Learning.
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=RONIN447&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RONIN447&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RONIN447&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🐍 Contribution Activity
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+⭐ *Building intelligent solutions, one commit at a time.*
